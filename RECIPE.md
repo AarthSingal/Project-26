@@ -1,1 +1,1 @@
-
+Add ingredients together in blender and blend until smooth
